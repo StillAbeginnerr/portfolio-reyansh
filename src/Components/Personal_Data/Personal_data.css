@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&family=Ubuntu&display=swap');
+
+.resume_img{
+position: relative;
+left: 35%;
+}
+
+.cover_letter{
+    font-family:'Rubik';
+    font-size: 22px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+.btn{
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+
+  .btn:hover {
+    background-color: RoyalBlue;
+  }

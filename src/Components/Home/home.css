@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&family=Ubuntu&display=swap');
+
+.Name{
+    font-family: 'Rubik';
+    font-weight: bold;
+    font-size: 74px;
+    margin-left: 15rem;
+    margin-top: 5.5rem;
+    position: relative;
+    bottom: 18rem;
+}
+
+.description{
+font-family: 'Rubik';
+position: relative;
+bottom: 16rem;
+left: 7.5rem;
+font-size: 30px;
+}
+.description-small{
+    font-family: 'Rubik';
+    font-weight: 300;
+    position: relative;
+    bottom: 16rem;
+    left: 7.5rem;
+    font-size: 18px;
+    }
+.dp{
+    position: relative;
+    left: 300px;
+    top: 150px;
+    height: 400px;
+    width: 400px;
+}
+hr{
+    width: 40px;
+    border: 2.5px solid black;
+    position: absolute;
+    left: 135px;
+}
+.hello{
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    font-size: 34px;
+    margin-left: 12rem;
+    margin-top: 7rem;
+}
